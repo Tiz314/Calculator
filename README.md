@@ -1,2 +1,2 @@
-<h1>Standard Calculator</h1>
-## First simple project written in Java. With GUI
+<h1 align="center">Standard Calculator</h1>
+<p>First simple project written in Java. With GUI</p>
